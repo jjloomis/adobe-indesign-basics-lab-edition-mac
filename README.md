@@ -2,7 +2,7 @@
 
 ### About
 
-Adobe InDesign 2023 Basics | macOS Basics instructions for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
+Adobe InDesign 2024 Basics | macOS Basics instructions for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
 
 ### Credits
 
